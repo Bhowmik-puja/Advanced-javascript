@@ -15,5 +15,15 @@
 // const obj = {name:"kalia", ages: 25};
 // console.log(obj.phone);
 
-let fun = undefined;
-console.log(fun);
+// let fun = undefined;
+// console.log(fun);
+
+
+//NULL
+//null is assigned value
+function doSomething(x, y){
+
+    console.log(y);
+    
+    }
+    doSomething(32);
